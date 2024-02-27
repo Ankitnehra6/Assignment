@@ -7,9 +7,8 @@
 
 </div>
 
-
-Image Description refers to the process of generating meaningful descriptions from images based on objects and activities detected in the images.
-
+An application that generates live commentary for sports events from
+streaming images, employing image recognition and NLP.
   
 
 ## Specifications
